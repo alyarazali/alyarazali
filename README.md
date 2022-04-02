@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alyarazali.
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development, especially in Frontend.
 - 🌱 I’m currently learning more on WordPress development and sharpening my JavaScript skills via freeCodeCamp.
 
 <!---
